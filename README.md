@@ -4,7 +4,7 @@ Inspired by Zeh Fernandes - Daily Log
 
 ## 2018 LOG
 
-* `23 fev` - [SSH - Windows e Github](2018/2018-02-23.md)
+* `23 fev` - [SSH - Windows and Github](2018/2018-02-23.md)
 
 ### Lists
 
@@ -13,3 +13,4 @@ Inspired by Zeh Fernandes - Daily Log
 - [Books List](2018/books.md)
 - [Courses List](2018/courses.md)
 - [Movies List](2018/movies.md)
+- [Videos List](2018/videos.md)
