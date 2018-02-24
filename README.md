@@ -4,7 +4,8 @@ Inspired by Zeh Fernandes - Daily Log
 
 ## 2018 LOG
 
-* `23 fev` - [SSH - Windows and Github](2018/2018-02-23.md)
+- *2018-02-23*
+    - [SSH - Windows and Github](2018/february/windows-and-github.md)
 
 ### Lists
 
