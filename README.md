@@ -1,7 +1,14 @@
-# 2018 LOG
+## Dailylog
 
-* `23 fev` - [SSH - Windows e Github](2018/2018-02-05.md)
+Inspired by Zeh Fernandes - Daily Log
 
-## Lists
+## 2018 LOG
 
-- [Reading List](2018/books.md)
+* `23 fev` - [SSH - Windows e Github](2018/2018-02-23.md)
+
+### Lists
+
+- [Animes List](2018/animes.md)
+- [Articles List](2018/articles.md)
+- [Books List](2018/books.md)
+- [Movies List](2018/movies.md)
