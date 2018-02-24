@@ -6,6 +6,7 @@ Inspired by Zeh Fernandes - Daily Log
 
 - *2018-02-23*
     - [SSH - Windows and Github](2018/february/windows-and-github.md)
+    - [TreinaWeb - Challenges: Conditions and Loops](2018/february/conditions-and-loops.js)
 
 ### Lists
 
