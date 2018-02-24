@@ -1,8 +1,9 @@
 # SSH - Windows and Github
 
+- [Basics Settings](#basics-settings)
+- [Managing the key ssh in your windows SO to access github](#managing-the-key-ssh-in-your-windows-so-to-access-github)
 
-
-## Basics settings
+### Basics Settings
 
 * Define the name to user
 
@@ -12,14 +13,14 @@ _git config --global user.name KaiqueMunhoz_
 
 _git config --global user.email munhoz13km@gmail.com_
 
-## Managing the key ssh in your windows SO to access github
+### Managing the key ssh in your windows SO to access github
 
 * Generate a ssh-keygen
 
 _ssh-keygen -t rsa -b 4096 -C "munhoz13km@gmail.com"_
 
 * Define a password
-* Test it's running
+* Test is running
 
 _eval "$(ssh-agent -s)"_
 
