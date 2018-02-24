@@ -18,4 +18,5 @@ Inspired by Zeh Fernandes - Daily Log
 - [Books List](2018/books.md)
 - [Courses List](2018/courses.md)
 - [Movies List](2018/movies.md)
+- [Quotes List](2018/quotes.md)
 - [Videos List](2018/videos.md)
