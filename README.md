@@ -19,6 +19,7 @@ Inspired by Zeh Fernandes - Daily Log
 - *2018-02-25*
     - [Article - Do these things after 6pm and your life will never be the same](https://medium.com/the-mission/do-these-things-after-6-p-m-and-your-life-will-never-be-the-same-1dcc545664dc)
     - [Article - Learning fluency](https://medium.com/@sarambsimon/learning-fluency-672988a7ae52)
+    - [Article - A incrível geração de mulheres que foi criada para ser tudo o que um homem não quer](http://emais.estadao.com.br/blogs/ruth-manus/a-incrivel-geracao-de-mulheres-que-foi-criada-para-ser-tudo-o-que-um-homem-nao-quer/)
 
     
 
