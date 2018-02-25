@@ -2,4 +2,4 @@
 
 - [Desaprender e Aprender](http://ofuturodascoisas.com/estrategia-de-sobrevivencia-para-o-futuro/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwJR%2BcDrqQTm9pJDLrE%2F8SA%3D%3D)
 - [Pare de arrumar desculpas e faça alguma coisa](https://www.linkedin.com/pulse/pare-de-arrumar-desculpas-e-fa%C3%A7a-alguma-coisa-la%C3%ADs-schulz/?trackingId=naMPdTlalZD7p4g85HhWLw%3D%3D)
--[Do these things after 6pm and your life will never be the same](https://medium.com/the-mission/do-these-things-after-6-p-m-and-your-life-will-never-be-the-same-1dcc545664dc)
+- [Do these things after 6pm and your life will never be the same](https://medium.com/the-mission/do-these-things-after-6-p-m-and-your-life-will-never-be-the-same-1dcc545664dc)
