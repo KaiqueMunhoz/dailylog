@@ -32,6 +32,7 @@ Inspired by Zeh Fernandes - Daily Log
     - [TreinaWeb - Letters Missing Of Alphabet](2018/february/lettersMissingOfAlphabet.js)
     - [TreinaWeb - Week Day](2018/february/weekDay.js)
     - [7 razões pelas quais você deveria ter (e manter) um blog](https://www.linkedin.com/pulse/7-raz%C3%B5es-pelas-quais-voc%C3%AA-deveria-ter-e-manter-um-blog-la%C3%ADs-schulz/?trackingId=0Hk%2B%2B0G5bNMAhkPFeToLoQ%3D%3D)
+    - [Article - 10 STEPS TO ELIMINATING REMOTE WORK DISTRACTIONS](https://www.invisionapp.com/blog/eliminating-remote-work-distractions/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
 
     
 
