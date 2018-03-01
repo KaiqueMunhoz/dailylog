@@ -39,10 +39,10 @@ Inspired by Zeh Fernandes - Daily Log
 
 ### Lists
 
-- [Animes List](2018/lists/animes.md)
-- [Articles List](2018/lists/articles.md)
-- [Books List](2018/lists/books.md)
-- [Courses List](2018/lists/courses.md)
-- [Movies List](2018/lists/movies.md)
-- [Quotes List](2018/lists/quotes.md)
-- [Videos List](2018/lists/videos.md)
+- [Animes](2018/lists/animes.md)
+- [Articles](2018/lists/articles.md)
+- [Books](2018/lists/books.md)
+- [Courses](2018/lists/courses.md)
+- [Movies](2018/lists/movies.md)
+- [Quotes](2018/lists/quotes.md)
+- [Videos](2018/lists/videos.md)
