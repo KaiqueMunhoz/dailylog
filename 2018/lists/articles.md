@@ -7,3 +7,4 @@
 - [A incrível geração de mulheres que foi criada para ser tudo o que um homem não quer](http://emais.estadao.com.br/blogs/ruth-manus/a-incrivel-geracao-de-mulheres-que-foi-criada-para-ser-tudo-o-que-um-homem-nao-quer/)
 - [7 razões pelas quais você deveria ter (e manter) um blog](https://www.linkedin.com/pulse/7-raz%C3%B5es-pelas-quais-voc%C3%AA-deveria-ter-e-manter-um-blog-la%C3%ADs-schulz/?trackingId=0Hk%2B%2B0G5bNMAhkPFeToLoQ%3D%3D)
 - [10 STEPS TO ELIMINATING REMOTE WORK DISTRACTIONS](https://www.invisionapp.com/blog/eliminating-remote-work-distractions/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+- [7 Stoic Strategies For Navigating The Modern Workplace](https://medium.com/the-mission/7-stoic-strategies-for-navigating-the-modern-workplace-dd3b2c48525f)
