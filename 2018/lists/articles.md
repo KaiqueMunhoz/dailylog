@@ -5,3 +5,4 @@
 - [Do these things after 6pm and your life will never be the same](https://medium.com/the-mission/do-these-things-after-6-p-m-and-your-life-will-never-be-the-same-1dcc545664dc)
 - [Learning fluency](https://medium.com/@sarambsimon/learning-fluency-672988a7ae52)
 - [A incrível geração de mulheres que foi criada para ser tudo o que um homem não quer](http://emais.estadao.com.br/blogs/ruth-manus/a-incrivel-geracao-de-mulheres-que-foi-criada-para-ser-tudo-o-que-um-homem-nao-quer/)
+- [7 razões pelas quais você deveria ter (e manter) um blog](https://www.linkedin.com/pulse/7-raz%C3%B5es-pelas-quais-voc%C3%AA-deveria-ter-e-manter-um-blog-la%C3%ADs-schulz/?trackingId=0Hk%2B%2B0G5bNMAhkPFeToLoQ%3D%3D)
