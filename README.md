@@ -9,7 +9,7 @@ Inspired by Zeh Fernandes - Daily Log
     - [TreinaWeb - Challenges: Conditions and Loops](2018/february/conditionsAndLoops.js)
 
 - *2018-02-24*
-    - [Estratégia de sobrevivência para o futuro](http://ofuturodascoisas.com/estrategia-de-sobrevivencia-para-o-futuro/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwJR%2BcDrqQTm9pJDLrE%2F8SA%3D%3D)
+    - [Article - Estratégia de sobrevivência para o futuro](http://ofuturodascoisas.com/estrategia-de-sobrevivencia-para-o-futuro/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwJR%2BcDrqQTm9pJDLrE%2F8SA%3D%3D)
     - [TreinaWeb - Basics of objects in javascript](2018/february/objects.js)
     - [TreinaWeb - Initicialize an variable, of arrays or objects, with Ecmascript 2016](2018/february/initicializeAnVariableWithNewEcmascript.js)
     - [TreinaWeb - For in for out](2018/february/forInAndForOf.js)
@@ -21,17 +21,18 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - Learning fluency](https://medium.com/@sarambsimon/learning-fluency-672988a7ae52)
     - [Article - A incrível geração de mulheres que foi criada para ser tudo o que um homem não quer](http://emais.estadao.com.br/blogs/ruth-manus/a-incrivel-geracao-de-mulheres-que-foi-criada-para-ser-tudo-o-que-um-homem-nao-quer/)
 - *2018-02-26*
-    - [SIGMUND FREUD - LUIZ FELIPE PONDÉ](https://www.youtube.com/watch?v=oajDcp69lEQ&t=2223s)
-    - [The Power of One Percent Better](2018/february/thePowerOfOnePercentBetter.md)
+    - [Video - SIGMUND FREUD - LUIZ FELIPE PONDÉ](https://www.youtube.com/watch?v=oajDcp69lEQ&t=2223s)
+    - [Book - The Power of One Percent Better](2018/february/thePowerOfOnePercentBetter.md)
 - *2018-02-27*
-    - [O que aconteceria com você caso parasse de desperdiçar as oportunidades que surgem à sua frente?](https://dms.licdn.com/playback/C4E05AQEdgm4n7MNgVA/3bd352073e0946a5886a41dea682bdd7/feedshare-mp4_500/1479932728445-v0ch3x?e=1519873200&v=alpha&t=f9vhacgqvJY8c1gRLwP0FzQ4865sS5GMpM0AHq7Al-A)
+    - [Video - O que aconteceria com você caso parasse de desperdiçar as oportunidades que surgem à sua frente?](https://dms.licdn.com/playback/C4E05AQEdgm4n7MNgVA/3bd352073e0946a5886a41dea682bdd7/feedshare-mp4_500/1479932728445-v0ch3x?e=1519873200&v=alpha&t=f9vhacgqvJY8c1gRLwP0FzQ4865sS5GMpM0AHq7Al-A)
     - [TreinaWeb - Elevator](2018/february/spread.js)
 - *2018-02-28*
-    - [Bertrand Russell - Two advices](https://dms.licdn.com/playback/C4E05AQE3NbsRH_OYvw/fde108456cc94457b85b85bb8f3f2e90/feedshare-mp4_500/1479932728445-v0ch3x?e=1519948800&v=alpha&t=ehHozkPpspksKn1ebTYWgW8eM3Pyre04iae0xFlpzBQ)
+    - [Video - Bertrand Russell - Two advices](https://dms.licdn.com/playback/C4E05AQE3NbsRH_OYvw/fde108456cc94457b85b85bb8f3f2e90/feedshare-mp4_500/1479932728445-v0ch3x?e=1519948800&v=alpha&t=ehHozkPpspksKn1ebTYWgW8eM3Pyre04iae0xFlpzBQ)
     - [TreinaWeb - Random Message](2018/february/randomMessage.js)
     - [TreinaWeb - Letters Missing Of Alphabet](2018/february/lettersMissingOfAlphabet.js)
     - [TreinaWeb - Week Day](2018/february/weekDay.js)
-    - [7 razões pelas quais você deveria ter (e manter) um blog](https://www.linkedin.com/pulse/7-raz%C3%B5es-pelas-quais-voc%C3%AA-deveria-ter-e-manter-um-blog-la%C3%ADs-schulz/?trackingId=0Hk%2B%2B0G5bNMAhkPFeToLoQ%3D%3D)
+    - [Article - 7 razões pelas quais você deveria ter (e manter) um blog](https://www.linkedin.com/pulse/7-raz%C3%B5es-pelas-quais-voc%C3%AA-deveria-ter-e-manter-um-blog-la%C3%ADs-schulz/?trackingId=0Hk%2B%2B0G5bNMAhkPFeToLoQ%3D%3D)
+- *2018-03-01*
     - [Article - 10 STEPS TO ELIMINATING REMOTE WORK DISTRACTIONS](https://www.invisionapp.com/blog/eliminating-remote-work-distractions/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
 
     
