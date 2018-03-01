@@ -29,6 +29,7 @@ Inspired by Zeh Fernandes - Daily Log
 - *2018-02-28*
     - [Bertrand Russell - Two advices](https://dms.licdn.com/playback/C4E05AQE3NbsRH_OYvw/fde108456cc94457b85b85bb8f3f2e90/feedshare-mp4_500/1479932728445-v0ch3x?e=1519948800&v=alpha&t=ehHozkPpspksKn1ebTYWgW8eM3Pyre04iae0xFlpzBQ)
     - [TreinaWeb - Elevator](2018/february/randomMessage.js)
+    - [TreinaWeb - Elevator](2018/february/lettersMissingOfAlphabet.js)
     
 
 ### Lists
