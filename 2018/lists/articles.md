@@ -9,3 +9,4 @@
 - [10 STEPS TO ELIMINATING REMOTE WORK DISTRACTIONS](https://www.invisionapp.com/blog/eliminating-remote-work-distractions/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
 - [7 Stoic Strategies For Navigating The Modern Workplace](https://medium.com/the-mission/7-stoic-strategies-for-navigating-the-modern-workplace-dd3b2c48525f)
 - [The Productivity Paradox—Why Doing More Doesn't Get More Done](https://www.hellosign.com/blog/productivity-paradox?utm_medium=paid_content&utm_source=buysellads&utm_campaign=hsent_blog_pocket)
+- [Personality Tools Graves Model](https://personalityhacker.com/personality-tools-graves-model/)

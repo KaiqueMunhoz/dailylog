@@ -37,8 +37,8 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - 7 Stoic Strategies For Navigating The Modern Workplace](https://medium.com/the-mission/7-stoic-strategies-for-navigating-the-modern-workplace-dd3b2c48525f)
     - [Article - The Productivity Paradox—Why Doing More Doesn't Get More Done](https://www.hellosign.com/blog/productivity-paradox?utm_medium=paid_content&utm_source=buysellads&utm_campaign=hsent_blog_pocket)
     - [TreinaWeb - Letters Missing Of Alphabet](2018/03-march/lettersMissingOfAlphabet.js)
-
-    
+- *2018-03-02*
+    - [Article - Personality Tools Graves Model](https://personalityhacker.com/personality-tools-graves-model/)
 
 ### Lists
 
