@@ -1,4 +1,4 @@
-## Dailylog
+# Dailylog
 
 Inspired by Zeh Fernandes - Daily Log
 
