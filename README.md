@@ -40,6 +40,7 @@ Inspired by Zeh Fernandes - Daily Log
 - *2018-03-02*
     - [Article - Personality Tools Graves Model](https://personalityhacker.com/personality-tools-graves-model/)
 - *2018-03-03*
+    - [Anime - 1988 - Akira](https://filmow.com/akira-t160/)
     - [Book - Mitologia Nordica](../03-march/mitologiaNordica.md)
     - [Article - How to Read](http://pne.people.si.umich.edu/PDF/howtoread.pdf)
 
