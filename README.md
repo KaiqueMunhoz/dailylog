@@ -41,6 +41,7 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - Personality Tools Graves Model](https://personalityhacker.com/personality-tools-graves-model/)
 - *2018-03-03*
     - [Book - Mitologia Nordica](../03-march/mitologiaNordica.md)
+    - [Article - How to Read](http://pne.people.si.umich.edu/PDF/howtoread.pdf)
 
 ### Lists
 
