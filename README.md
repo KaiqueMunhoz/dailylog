@@ -39,6 +39,8 @@ Inspired by Zeh Fernandes - Daily Log
     - [TreinaWeb - Letters Missing Of Alphabet](2018/03-march/lettersMissingOfAlphabet.js)
 - *2018-03-02*
     - [Article - Personality Tools Graves Model](https://personalityhacker.com/personality-tools-graves-model/)
+- *2018-03-03*
+    - [Book - Mitologia Nordica](../03-march/mitologiaNordica.md)
 
 ### Lists
 
