@@ -12,3 +12,4 @@
 - [Personality Tools Graves Model](https://personalityhacker.com/personality-tools-graves-model/)
 - [How to Read](http://pne.people.si.umich.edu/PDF/howtoread.pdf)
 - [Será que o meu HTML está pronto?](https://www.devmedia.com.br/sera-que-o-meu-html-esta-pronto/39485?utm_source=facebook.com&utm_medium=cpc&utm_campaign=DevCast+-+Tr%C3%A1fego&utm_content=DevCast+39485)
+- [Be good at one thing, not average at everything](https://dev.to/stvnyung/be-good-at-one-thing-not-average-at-everything-1bf1)
