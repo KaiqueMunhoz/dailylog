@@ -46,6 +46,8 @@ Inspired by Zeh Fernandes - Daily Log
 - *2018-03-04*
     - [Article - Será que o meu HTML está pronto?](https://www.devmedia.com.br/sera-que-o-meu-html-esta-pronto/39485?utm_source=facebook.com&utm_medium=cpc&utm_campaign=DevCast+-+Tr%C3%A1fego&utm_content=DevCast+39485)
     - [Article - Be good at one thing, not average at everything](https://dev.to/stvnyung/be-good-at-one-thing-not-average-at-everything-1bf1)
+- *2018-03-05*
+    - [Article - Ferramentas Devops](https://onebitcode.com/ferramentas-devops/)
 
 ### Lists
 
