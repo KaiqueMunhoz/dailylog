@@ -15,3 +15,5 @@
 - [Be good at one thing, not average at everything](https://dev.to/stvnyung/be-good-at-one-thing-not-average-at-everything-1bf1)
 - [Ferramentas Devops](https://onebitcode.com/ferramentas-devops/)
 - [Programador Freelance Remote](https://onebitcode.com/programador-freelance-remote/#possivel)
+- [Deep Thinking in the age of Distraction](https://medium.com/swlh/deep-thinking-in-the-age-of-distraction-f7cf765b2762)
+- [How to Make Better Use of Everything you Read](https://work.qz.com/1217245/how-to-make-better-use-of-everything-you-read/)
