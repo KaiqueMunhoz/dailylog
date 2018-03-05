@@ -48,6 +48,7 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - Be good at one thing, not average at everything](https://dev.to/stvnyung/be-good-at-one-thing-not-average-at-everything-1bf1)
 - *2018-03-05*
     - [Article - Ferramentas Devops](https://onebitcode.com/ferramentas-devops/)
+    - [Article - Programador Freelance Remote](https://onebitcode.com/programador-freelance-remote/#possivel)
 
 ### Lists
 
