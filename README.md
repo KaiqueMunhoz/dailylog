@@ -46,7 +46,12 @@ Inspired by Zeh Fernandes - Daily Log
 - *2018-03-04*
     - [Article - Será que o meu HTML está pronto?](https://www.devmedia.com.br/sera-que-o-meu-html-esta-pronto/39485?utm_source=facebook.com&utm_medium=cpc&utm_campaign=DevCast+-+Tr%C3%A1fego&utm_content=DevCast+39485)
     - [Article - Be good at one thing, not average at everything](https://dev.to/stvnyung/be-good-at-one-thing-not-average-at-everything-1bf1)
-    - [Document Object Model](2018/03-march/document-object-model.html)
+    - [TreinaWeb - Document Object Model](2018/03-march/document-object-model.html)
+- *2018-03-05*
+    - [Article - Ferramentas Devops](https://onebitcode.com/ferramentas-devops/)
+    - [Article - Programador Freelance Remote](https://onebitcode.com/programador-freelance-remote/#possivel)
+    - [Article - Deep Thinking in the age of Distraction](https://medium.com/swlh/deep-thinking-in-the-age-of-distraction-f7cf765b2762)
+    - [Article - How to Make Better Use of Everything you Read](https://work.qz.com/1217245/how-to-make-better-use-of-everything-you-read/)
 
 ### Lists
 
