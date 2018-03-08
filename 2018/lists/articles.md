@@ -22,3 +22,4 @@
 - [Como Docker entrou na minha Rotina](https://www.kinghost.com.br/blog/2018/01/como-docker-entrou-minha-rotina/?utm_source=rdstation&utm_medium=email&utm_term=docker-rotina&utm_content=news-conteudo&utm_campaign=content-marketing)
 - [MEI para desenvolvedores](https://www.kinghost.com.br/blog/2018/01/mei-para-desenvolvedores/?utm_source=rdstation&utm_medium=email&utm_term=mei-dvs&utm_content=news-conteudo&utm_campaign=content-marketing)
 - [Want to live a life 99% of other people will envy](https://medium.com/@anthony_moore/want-to-live-a-life-99-of-other-people-will-envy-read-this-immediately-706a321a81dc)
+- [How Chatbots are revolutionising brands communications with their customers](https://uxplanet.org/how-chatbots-are-revolutionising-brands-communication-with-their-customers-b811b5ebeb2)
