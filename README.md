@@ -62,6 +62,8 @@ Inspired by Zeh Fernandes - Daily Log
 - *2018-03-08*
     - [Article - How Chatbots are revolutionising brands communications with their customers](https://uxplanet.org/how-chatbots-are-revolutionising-brands-communication-with-their-customers-b811b5ebeb2)
     - [Article - The 5 types of creative block](https://blog.prototypr.io/the-5-types-of-creative-block-dea9dcf2a8e1)
+- *2018-03-09*
+    - [Book - Docker para Desenvolvedores](2018/03-march/dockerParaDesenvolvedores.md)
 
 ### Lists
 
