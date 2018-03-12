@@ -66,6 +66,7 @@ Inspired by Zeh Fernandes - Daily Log
     - [Book - Docker para Desenvolvedores](2018/03-march/dockerParaDesenvolvedores.md)
 - *2018-03-12*
     - [Article - How did I manage to get my first full stack developer job without a degree](https://medium.com/@ishtmeetsingh/how-did-i-manage-to-get-my-first-full-stack-developer-job-without-a-degree-f18c8d1624b1)
+    - [Article - Principais vantagens da jet neo plataforma de e commerce](http://www.chicledigital.com.br/principais-vantagens-da-jet-neo-plataforma-de-e-commerce/)
 
 ### Lists
 
