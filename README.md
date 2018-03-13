@@ -70,6 +70,7 @@ Inspired by Zeh Fernandes - Daily Log
 - *2018-03-13*
     - [Ebook - Guia Trello - Como aderir ao trabalho remoto](2018/03-march/comoAderirAoTrabalhoRemoto.md)
     - [Article - The crazy history of the 100daysofcode challenge and why you should try it for 2018](https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d)
+    - [Article - How make progress while studyng for coding interviews](https://medium.freecodecamp.org/how-to-make-progress-while-studying-for-coding-interviews-894c320bfa74)
 
 ### Lists
 
