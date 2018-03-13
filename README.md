@@ -68,7 +68,8 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - How did I manage to get my first full stack developer job without a degree](https://medium.com/@ishtmeetsingh/how-did-i-manage-to-get-my-first-full-stack-developer-job-without-a-degree-f18c8d1624b1)
     - [Article - Principais vantagens da jet neo plataforma de e commerce](http://www.chicledigital.com.br/principais-vantagens-da-jet-neo-plataforma-de-e-commerce/)
 - *2018-03-13*
-    - ["Ebook - Guia Trello - Como aderir ao trabalho remoto"](2018/03-march/comoAderirAoTrabalhoRemoto.md)
+    - [Ebook - Guia Trello - Como aderir ao trabalho remoto](2018/03-march/comoAderirAoTrabalhoRemoto.md)
+    - [Article - The crazy history of the 100daysofcode challenge and why you should try it for 2018](https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d)
 
 ### Lists
 
