@@ -73,6 +73,7 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - How make progress while studyng for coding interviews](https://medium.freecodecamp.org/how-to-make-progress-while-studying-for-coding-interviews-894c320bfa74)
 - *2018-03-14*
     - [Article - Meus 50 dias na espanha](https://willianjusten.com.br/meus-50-dias-na-espanha/?utm_content=educational&utm_campaign=2018-03-14&utm_source=email-sendgrid&utm_term=15609532&utm_medium=849470)
+    - [Article - Beat decision fatigue with better brain habits](https://blog.trello.com/beat-decision-fatigue-with-better-brain-habits?utm_source=newsletter&utm_medium=email&utm_campaign=trello-march2018-newsletter1)
 
 ### Lists
 
