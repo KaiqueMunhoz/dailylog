@@ -75,6 +75,7 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - Meus 50 dias na espanha](https://willianjusten.com.br/meus-50-dias-na-espanha/?utm_content=educational&utm_campaign=2018-03-14&utm_source=email-sendgrid&utm_term=15609532&utm_medium=849470)
     - [Article - Beat decision fatigue with better brain habits](https://blog.trello.com/beat-decision-fatigue-with-better-brain-habits?utm_source=newsletter&utm_medium=email&utm_campaign=trello-march2018-newsletter1)
     - [Article - Definitive guide batching work](http://www.asianefficiency.com/productivity/definitive-guide-batching-work/)
+    - [Article - The science-backed reasons you shouldn't share your goals](https://blog.trello.com/science-backed-reasons-you-shouldnt-share-your-goals?utm_source=newsletter&utm_medium=email&utm_campaign=trello-march2018-newsletter1)
 
 ### Lists
 
