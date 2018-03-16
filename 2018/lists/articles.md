@@ -32,3 +32,8 @@
 - [Beat decision fatigue with better brain habits](https://blog.trello.com/beat-decision-fatigue-with-better-brain-habits?utm_source=newsletter&utm_medium=email&utm_campaign=trello-march2018-newsletter1)
 - [Definitive guide batching work](http://www.asianefficiency.com/productivity/definitive-guide-batching-work/)
 - [The science-backed reasons you shouldn't share your goals](https://blog.trello.com/science-backed-reasons-you-shouldnt-share-your-goals?utm_source=newsletter&utm_medium=email&utm_campaign=trello-march2018-newsletter1)
+
+- [When hiring freelancers?](https://www.freshbooks.com/blog/contract-101-when-hiring-freelancers?utm_source=emailnewsletter&utm_medium=social&utm_campaign=postanly)
+- [Mastering intuitive thinking how we make our minds](https://medium.com/swlh/mastering-intuitive-thinking-how-we-make-up-our-minds-fa5a0e8f133c)
+- [Here how to leave work on time every time](https://www.theladders.com/career-advice/heres-how-to-leave-work-on-time-every-time)
+- [How to achieve extreme productivity](http://mitsloan.mit.edu/newsroom/articles/how-to-achieve-extreme-productivity/?_lrsc=5c59b75e-d032-40f5-963d-d2974f194f63)
