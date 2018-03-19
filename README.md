@@ -83,6 +83,8 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - Mastering intuitive thinking how we make our minds](https://medium.com/swlh/mastering-intuitive-thinking-how-we-make-up-our-minds-fa5a0e8f133c)
     - [Article - Here how to leave work on time every time](https://www.theladders.com/career-advice/heres-how-to-leave-work-on-time-every-time)
     - [Article - How to achieve extreme productivity](http://mitsloan.mit.edu/newsroom/articles/how-to-achieve-extreme-productivity/?_lrsc=5c59b75e-d032-40f5-963d-d2974f194f63)
+- *2018-03-19*
+    - [Article - The git rebase introduction I wish I'd had](https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had)
 
 ### Lists
 
