@@ -85,6 +85,13 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - How to achieve extreme productivity](http://mitsloan.mit.edu/newsroom/articles/how-to-achieve-extreme-productivity/?_lrsc=5c59b75e-d032-40f5-963d-d2974f194f63)
 - *2018-03-19*
     - [Article - The git rebase introduction I wish I'd had](https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had)
+- *2018-03-20*
+    - [Article - Want to Reduce Brain Fog And Improve Clear Thinking? Give up These Things Immediately](https://medium.com/personal-growth/want-to-reduce-brain-fog-and-improve-clear-thinking-give-up-these-things-immediately-1bfee44f4dd7)
+    - [Article - Why being a loner may be good for your health](http://www.bbc.com/future/story/20180228-there-are-benefits-to-being-antisocial-or-a-loner)
+    - [Article - How to read less news but be more informed, according to a futurist](https://qz.com/1222019/stop-reading-the-latest-news-if-you-want-to-be-better-informed/)
+    - [Article - 10 things happy professionals do before 10am](https://www.theladders.com/career-advice/10-things-happy-professionals-do-before-10-a-m)
+    - [Article - How to stay focused and producitive without getting burnt-out](https://www.theladders.com/career-advice/how-to-stay-focused-and-productive-without-getting-burnt-out)
+    - [Article - How I started drawing CSS images](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
 
 ### Lists
 
