@@ -92,6 +92,8 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - 10 things happy professionals do before 10am](https://www.theladders.com/career-advice/10-things-happy-professionals-do-before-10-a-m)
     - [Article - How to stay focused and producitive without getting burnt-out](https://www.theladders.com/career-advice/how-to-stay-focused-and-productive-without-getting-burnt-out)
     - [Article - How I started drawing CSS images](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
+- *2018-03-21*
+    - [Article - Pragas teste software parte 1](http://blog.onedaytesting.com.br/pragas-teste-software-1/)
 
 ### Lists
 
