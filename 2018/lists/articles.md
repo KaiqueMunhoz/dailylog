@@ -48,3 +48,4 @@
 - [Http methods](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods)
 - [Os métodos http e a diferença entre eles](http://gabsferreira.com/os-metodos-http-e-a-diferenca-entre-eles/)
 - [Restful API - Melhores praticas](https://imasters.com.br/apis/restful-api-melhores-praticas/?trace=1519021197&source=single)
+- [O guia do ES6: Tudo que você precisa saber](https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f)
