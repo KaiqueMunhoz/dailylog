@@ -45,3 +45,5 @@
 - [How I started drawing CSS images](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
 - [Pragas teste software parte 1](http://blog.onedaytesting.com.br/pragas-teste-software-1/)
 - [Tudo que voce queria saber sobre git e github mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
+- [Http methods](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods)
+- [Os métodos http e a diferença entre eles](http://gabsferreira.com/os-metodos-http-e-a-diferenca-entre-eles/)
