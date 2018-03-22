@@ -47,3 +47,4 @@
 - [Tudo que voce queria saber sobre git e github mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
 - [Http methods](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods)
 - [Os métodos http e a diferença entre eles](http://gabsferreira.com/os-metodos-http-e-a-diferenca-entre-eles/)
+- [Restful API - Melhores praticas](https://imasters.com.br/apis/restful-api-melhores-praticas/?trace=1519021197&source=single)
