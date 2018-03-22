@@ -44,3 +44,4 @@
 - [How to stay focused and producitive without getting burnt-out](https://www.theladders.com/career-advice/how-to-stay-focused-and-productive-without-getting-burnt-out)
 - [How I started drawing CSS images](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
 - [Pragas teste software parte 1](http://blog.onedaytesting.com.br/pragas-teste-software-1/)
+- [Tudo que voce queria saber sobre git e github mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)

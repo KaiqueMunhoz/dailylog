@@ -94,6 +94,8 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - How I started drawing CSS images](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
 - *2018-03-21*
     - [Article - Pragas teste software parte 1](http://blog.onedaytesting.com.br/pragas-teste-software-1/)
+- *2018-03-22*
+    - [Article - Tudo que voce queria saber sobre git e github mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
 
 ### Lists
 
