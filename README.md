@@ -103,6 +103,7 @@ Inspired by Zeh Fernandes - Daily Log
 - *2018-03-23*
     - [Article - O que todo desenvolvedor javascript precisa saber](https://medium.com/tableless/o-que-todo-desenvolvedor-javascript-precisa-saber-2cc33daedb86)
     - [Article - How to write a great resume for software engineers](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
+    - [Article - Hospedando sites gratuitamente com o GitHub Pages](https://blog.paulagrangeiro.com.br/hospedando-sites-gratuitamente-com-o-github-pages-284aa643db14)
 
 ### Lists
 
