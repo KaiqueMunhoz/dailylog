@@ -50,3 +50,4 @@
 - [Restful API - Melhores praticas](https://imasters.com.br/apis/restful-api-melhores-praticas/?trace=1519021197&source=single)
 - [O guia do ES6: Tudo que você precisa saber](https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f)
 - [O que todo desenvolvedor javascript precisa saber](https://medium.com/tableless/o-que-todo-desenvolvedor-javascript-precisa-saber-2cc33daedb86)
+- [How to write a great resume for software engineers](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
