@@ -106,7 +106,7 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - Hospedando sites gratuitamente com o GitHub Pages](https://blog.paulagrangeiro.com.br/hospedando-sites-gratuitamente-com-o-github-pages-284aa643db14)
 - *2018-03-24*
     - [Article - Quem vê rugas não vê competência](https://www.linkedin.com/pulse/quem-v%25C3%25AA-rugas-n%25C3%25A3o-compet%25C3%25AAncia-guilherme-visconti/)
-    - [Anime - Kakegurui](http://www.imdb.com/title/tt7131720/)
+    - [Anime - 2017 - Kakegurui](http://www.imdb.com/title/tt7131720/)
 
 ### Lists
 
