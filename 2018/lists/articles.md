@@ -54,3 +54,4 @@
 - [Hospedando sites gratuitamente com o GitHub Pages](https://blog.paulagrangeiro.com.br/hospedando-sites-gratuitamente-com-o-github-pages-284aa643db14)
 - [Quem vê rugas não vê competência](https://www.linkedin.com/pulse/quem-v%25C3%25AA-rugas-n%25C3%25A3o-compet%25C3%25AAncia-guilherme-visconti/)
 - [I am definitely maybe suffering from javascript related stockholm syndrom](https://medium.com/@s_27669/i-am-definitely-maybe-suffering-from-javascript-related-stockholm-syndrome-47ef4aecbb1a)
+- [The absolute beginners guide to learning web development in 2018](https://medium.freecodecamp.org/the-absolute-beginners-guide-to-learning-web-development-in-2018-d87ba925549b)

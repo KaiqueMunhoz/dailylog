@@ -108,6 +108,7 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - Quem vê rugas não vê competência](https://www.linkedin.com/pulse/quem-v%25C3%25AA-rugas-n%25C3%25A3o-compet%25C3%25AAncia-guilherme-visconti/)
     - [Anime - 2017 - Kakegurui](http://www.imdb.com/title/tt7131720/)
     - [Article - I am definitely maybe suffering from javascript related stockholm syndrom](https://medium.com/@s_27669/i-am-definitely-maybe-suffering-from-javascript-related-stockholm-syndrome-47ef4aecbb1a)
+    - [Article - The absolute beginners guide to learning web development in 2018](https://medium.freecodecamp.org/the-absolute-beginners-guide-to-learning-web-development-in-2018-d87ba925549b)
 
 ### Lists
 
