@@ -55,3 +55,6 @@
 - [Quem vê rugas não vê competência](https://www.linkedin.com/pulse/quem-v%25C3%25AA-rugas-n%25C3%25A3o-compet%25C3%25AAncia-guilherme-visconti/)
 - [I am definitely maybe suffering from javascript related stockholm syndrom](https://medium.com/@s_27669/i-am-definitely-maybe-suffering-from-javascript-related-stockholm-syndrome-47ef4aecbb1a)
 - [The absolute beginners guide to learning web development in 2018](https://medium.freecodecamp.org/the-absolute-beginners-guide-to-learning-web-development-in-2018-d87ba925549b)
+- [One year as a remote developer](https://medium.com/@francesco.agnoletto/one-year-as-a-remote-developer-28e9dfca2e24)
+- [How to activate extreme self confidence and destroy chronic anxiety and fear](https://medium.com/the-mission/how-to-activate-extreme-self-confidence-and-destroy-chronic-anxiety-and-fear-d8c678b16010)
+- [Hack share learn 40 developer projects from the chingu cohorts](https://medium.com/chingu/hack-share-learn-40-developer-projects-from-the-chingu-cohorts-f740d080946d)

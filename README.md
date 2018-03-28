@@ -109,6 +109,10 @@ Inspired by Zeh Fernandes - Daily Log
     - [Anime - 2017 - Kakegurui](http://www.imdb.com/title/tt7131720/)
     - [Article - I am definitely maybe suffering from javascript related stockholm syndrom](https://medium.com/@s_27669/i-am-definitely-maybe-suffering-from-javascript-related-stockholm-syndrome-47ef4aecbb1a)
     - [Article - The absolute beginners guide to learning web development in 2018](https://medium.freecodecamp.org/the-absolute-beginners-guide-to-learning-web-development-in-2018-d87ba925549b)
+- *2018-03-27*
+    - [Article - One year as a remote developer](https://medium.com/@francesco.agnoletto/one-year-as-a-remote-developer-28e9dfca2e24)
+    - [Article - How to activate extreme self confidence and destroy chronic anxiety and fear](https://medium.com/the-mission/how-to-activate-extreme-self-confidence-and-destroy-chronic-anxiety-and-fear-d8c678b16010)
+    - [Article - Hack share learn 40 developer projects from the chingu cohorts](https://medium.com/chingu/hack-share-learn-40-developer-projects-from-the-chingu-cohorts-f740d080946d)
 
 ### Lists
 
