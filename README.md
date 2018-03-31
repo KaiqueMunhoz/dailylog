@@ -115,6 +115,8 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - Hack share learn 40 developer projects from the chingu cohorts](https://medium.com/chingu/hack-share-learn-40-developer-projects-from-the-chingu-cohorts-f740d080946d)
 - *2018-03-29*
     - [Article - How to turn your biggest goals into monthly weekly and daily to dos](https://www.fastcompany.com/40543815/how-to-turn-your-biggest-goals-into-monthly-weekly-and-daily-to-dos)
+- *2018-03-30*
+    - [Article - Google publishes a javascript style guide here are some key lessons](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b)
 
 ### Lists
 
