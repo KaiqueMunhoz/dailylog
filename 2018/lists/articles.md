@@ -58,3 +58,4 @@
 - [One year as a remote developer](https://medium.com/@francesco.agnoletto/one-year-as-a-remote-developer-28e9dfca2e24)
 - [How to activate extreme self confidence and destroy chronic anxiety and fear](https://medium.com/the-mission/how-to-activate-extreme-self-confidence-and-destroy-chronic-anxiety-and-fear-d8c678b16010)
 - [Hack share learn 40 developer projects from the chingu cohorts](https://medium.com/chingu/hack-share-learn-40-developer-projects-from-the-chingu-cohorts-f740d080946d)
+- [How to turn your biggest goals into monthly weekly and daily to dos](https://www.fastcompany.com/40543815/how-to-turn-your-biggest-goals-into-monthly-weekly-and-daily-to-dos)
