@@ -60,3 +60,8 @@
 - [Hack share learn 40 developer projects from the chingu cohorts](https://medium.com/chingu/hack-share-learn-40-developer-projects-from-the-chingu-cohorts-f740d080946d)
 - [How to turn your biggest goals into monthly weekly and daily to dos](https://www.fastcompany.com/40543815/how-to-turn-your-biggest-goals-into-monthly-weekly-and-daily-to-dos)
 - [Google publishes a javascript style guide here are some key lessons](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b)
+- [iMasters anuncia centro de referência para programadores](https://imasters.com.br/noticia/111320/)
+- [Gama Academy é nova parceira do E-Commerce Brasil](https://www.ecommercebrasil.com.br/noticias/gama-academy-e-nova-parceira-do-e-commerce-brasil-empresa-atua-na-capacitacao-de-talentos/)
+- [91 destaques brasileiros abaixo dos 30 anos](http://forbes.uol.com.br/listas/2017/03/91-destaques-brasileiros-abaixo-dos-30-anos/#foto30)
+- [iMasters e Gama Academy firmam parceria para formação de developers](https://imasters.com.br/noticia/imasters-e-gama-academy-firmam-parceria-em-educacao-digital/)
+- [SingularityU Brazil Global Impact Challenge anuncia finalistas brasileiros](https://conteudo.startse.com.br/empreendedores/lucas-bicudo/singularityu-brazil-global-impact-challenge-anuncia-finalistas-brasileiros/)
