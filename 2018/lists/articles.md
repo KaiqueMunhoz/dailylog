@@ -69,3 +69,6 @@
 - [The 7 Habits: Be Proactive, Not Reactive](https://www.artofmanliness.com/2018/03/19/7-habits-proactive-not-reactive/)
 - [How to ‘Reboot’ Your Creative Brain And Refresh Your Focus In 15 Minutes Or Less](https://medium.com/swlh/how-to-supercharge-your-brain-throughout-your-career-c61862dcd725)
 - [VIM - Introdução ao editor produtivo](https://onebitcode.com/vim-introducao-ao-editor-produtivo/)
+- [Learn how to be a better programmer by automating the boring stuff](https://medium.freecodecamp.org/learn-how-to-be-a-better-programmer-by-automating-the-boring-stuff-74a67a568c50)
+- [The 3 stages of failure in life and work and how to fix them](https://medium.com/personal-growth/the-3-stages-of-failure-in-life-and-work-and-how-to-fix-them-4c50d1de7cdf)
+- [As pragas do software - Parte 2](http://blog.onedaytesting.com.br/pragas-teste-software-2/)
