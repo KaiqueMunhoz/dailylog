@@ -67,3 +67,5 @@
 - [SingularityU Brazil Global Impact Challenge anuncia finalistas brasileiros](https://conteudo.startse.com.br/empreendedores/lucas-bicudo/singularityu-brazil-global-impact-challenge-anuncia-finalistas-brasileiros/)
 - [Don’t Make Me Think: 20 Wise Thoughts about Usability from Steve Krug](https://uxplanet.org/dont-make-me-think-20-wise-thoughts-about-usability-from-steve-krug-876b563f1d63)
 - [The 7 Habits: Be Proactive, Not Reactive](https://www.artofmanliness.com/2018/03/19/7-habits-proactive-not-reactive/)
+- [How to ‘Reboot’ Your Creative Brain And Refresh Your Focus In 15 Minutes Or Less](https://medium.com/swlh/how-to-supercharge-your-brain-throughout-your-career-c61862dcd725)
+- [VIM - Introdução ao editor produtivo](https://onebitcode.com/vim-introducao-ao-editor-produtivo/)
