@@ -123,7 +123,7 @@ Inspired by Zeh Fernandes - Daily Log
     - [Article - 91 destaques brasileiros abaixo dos 30 anos](http://forbes.uol.com.br/listas/2017/03/91-destaques-brasileiros-abaixo-dos-30-anos/#foto30)
     - [Article - iMasters e Gama Academy firmam parceria para formação de developers](https://imasters.com.br/noticia/imasters-e-gama-academy-firmam-parceria-em-educacao-digital/)
     - [Article - SingularityU Brazil Global Impact Challenge anuncia finalistas brasileiros](https://conteudo.startse.com.br/empreendedores/lucas-bicudo/singularityu-brazil-global-impact-challenge-anuncia-finalistas-brasileiros/)
-- *2018-04-03
+- *2018-04-03*
     - Video
         -   [Testing Coding Interview Solutions](https://www.youtube.com/watch?time_continue=684&v=HgthIgvdMJ8)
 
