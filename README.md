@@ -134,7 +134,7 @@ Inspired by Zeh Fernandes - Daily Log
         - [As pragas do software - Parte 2](http://blog.onedaytesting.com.br/pragas-teste-software-2/)
     - Video
         - [Testing Coding Interview Solutions](https://www.youtube.com/watch?time_continue=684&v=HgthIgvdMJ8)
-- *2018-04-03*
+- *2018-04-11*
     - Video
         - [Anjana Vakil: Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1528s)
 
