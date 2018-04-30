@@ -140,6 +140,9 @@ Inspired by Zeh Fernandes - Daily Log
     - Video
         - [Anjana Vakil: Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1528s)
 
+- *2018-04-20 - 2018-04-27*
+    - Processo seletivo Accenture Digital
+        - [Curso React-Native](https://github.com/KaiqueMunhoz/InstaluraMobile)
 
 ### Lists
 
