@@ -143,6 +143,9 @@ Inspired by Zeh Fernandes - Daily Log
 - *2018-04-20 - 2018-04-27*
     - Processo seletivo Accenture Digital
         - [Curso React-Native](https://github.com/KaiqueMunhoz/InstaluraMobile)
+- *2018-05-02*
+    - Articles
+        - [React Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
 
 ### Lists
 
