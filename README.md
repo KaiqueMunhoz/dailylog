@@ -148,7 +148,7 @@ Inspired by Zeh Fernandes - Daily Log
         - [React Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
         - [Conditional Rendering React](https://www.robinwieruch.de/conditional-rendering-react/)
         - [Guia Completo React Ecossistema](https://tableless.com.br/guia-completo-react-ecossistema/)
-        - [Inveja como o maior dos pecados pode atrapalhar seu sucesso](https://www.linkedin.com/pulse/inveja-como-o-maior-dos-pecados-pode-atrapalhar-seu-sucesso-focaccio/?trk=eml-email_feed_ecosystem_digest_01-recommended_articles-9-Unknown&midToken=AQGF60s8Rbr7wQ&fromEmail=fromEmail&ut=2SJ3D7lz74VEc1)
+        - [Inveja como o maior dos pecados pode atrapalhar seu sucesso](https://www.linkedin.com/pulse/inveja-como-o-maior-dos-pecados-pode-atrapalhar-seu-sucesso-focaccio)
         - [5 hierarquias](https://www.linkedin.com/pulse/5-hierarquias-bel-pesce/)
 
 ### Lists
