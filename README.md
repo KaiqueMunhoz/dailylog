@@ -146,6 +146,7 @@ Inspired by Zeh Fernandes - Daily Log
 - *2018-05-02*
     - Articles
         - [React Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
+        - [Conditional Rendering React](https://www.robinwieruch.de/conditional-rendering-react/)
 
 ### Lists
 

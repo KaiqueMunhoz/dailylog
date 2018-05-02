@@ -73,3 +73,4 @@
 - [The 3 stages of failure in life and work and how to fix them](https://medium.com/personal-growth/the-3-stages-of-failure-in-life-and-work-and-how-to-fix-them-4c50d1de7cdf)
 - [As pragas do software - Parte 2](http://blog.onedaytesting.com.br/pragas-teste-software-2/)
 - [React Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
+- [Conditional Rendering React](https://www.robinwieruch.de/conditional-rendering-react/)
