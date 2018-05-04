@@ -150,6 +150,11 @@ Inspired by Zeh Fernandes - Daily Log
         - [Guia Completo React Ecossistema](https://tableless.com.br/guia-completo-react-ecossistema/)
         - [Inveja como o maior dos pecados pode atrapalhar seu sucesso](https://www.linkedin.com/pulse/inveja-como-o-maior-dos-pecados-pode-atrapalhar-seu-sucesso-focaccio)
         - [5 hierarquias](https://www.linkedin.com/pulse/5-hierarquias-bel-pesce/)
+- *2018-05-03*
+    - Articles
+        - [Tutorial: Intro To React](https://reactjs.org/tutorial/tutorial.html)
+        - [Real time notification com rails 5.1](https://medium.com/@lorocha/real-time-notifications-com-rails-5-1-2761a40f7a1f)
+        - [7 motivos para você começar seu Nanodegree no Udacity hoje](https://paulovasconcellos.com.br/7-motivos-para-voc%C3%AA-come%C3%A7ar-seu-nanodegree-no-udacity-hoje-79e4a63b4bc)
 
 ### Lists
 
