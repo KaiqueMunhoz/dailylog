@@ -156,6 +156,10 @@ Inspired by Zeh Fernandes - Daily Log
         - [Real time notification com rails 5.1](https://medium.com/@lorocha/real-time-notifications-com-rails-5-1-2761a40f7a1f)
         - [7 motivos para você começar seu Nanodegree no Udacity hoje](https://paulovasconcellos.com.br/7-motivos-para-voc%C3%AA-come%C3%A7ar-seu-nanodegree-no-udacity-hoje-79e4a63b4bc)
 
+- *2018-05-03*
+    - Articles
+        - [How to become a git expert](https://medium.freecodecamp.org/how-to-become-a-git-expert-e7c38bf54826)
+
 ### Lists
 
 - [Animes](2018/lists/animes.md)
