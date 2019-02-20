@@ -162,6 +162,8 @@ Inspired by Zeh Fernandes - Daily Log
 
 ### Lists
 
+
+
 - [Animes](2018/lists/animes.md)
 - [Articles](2018/lists/articles.md)
 - [Books](2018/lists/books.md)
