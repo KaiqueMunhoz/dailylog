@@ -161,7 +161,9 @@ Inspired by Zeh Fernandes - Daily Log
         - [How to become a git expert](https://medium.freecodecamp.org/how-to-become-a-git-expert-e7c38bf54826)
 
 ### Lists
+
 <br />
+
 - [Animes](2018/lists/animes.md)
 - [Articles](2018/lists/articles.md)
 - [Books](2018/lists/books.md)
