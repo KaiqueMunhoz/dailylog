@@ -23,10 +23,10 @@ Inspired by Zeh Fernandes - Daily Log
 ---
 ### Lists
 
-- [Animes](2021/lists/animes.md)
-- [Articles](2021/lists/articles.md)
-- [Books](2021/lists/books.md)
-- [Courses](2021/lists/courses.md)
-- [Movies](2021/lists/movies.md)
-- [Quotes](2021/lists/quotes.md)
-- [Videos](2021/lists/videos.md)
+- [Animes](./lists/animes.md)
+- [Articles](./lists/articles.md)
+- [Books](./lists/books.md)
+- [Courses](./lists/courses.md)
+- [Movies](./lists/movies.md)
+- [Quotes](./lists/quotes.md)
+- [Videos](./lists/videos.md)
