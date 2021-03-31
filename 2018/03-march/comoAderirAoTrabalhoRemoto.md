@@ -1,5 +1,5 @@
 # Como aderir ao trabalho remoto - Guia Trello
 
-##Citações
+## Citações
 
-##Palavras
+## Palavras
