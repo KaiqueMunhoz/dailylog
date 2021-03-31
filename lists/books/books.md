@@ -1,4 +1,6 @@
 # Books
 
-- [The Power of One Percent Better](../2018/02-february/thePowerOfOnePercentBetter.md)
-- [Mitologia Nordica](../2018/03-march/mitologiaNordica.md)
+## 2018 
+- [The Power of One Percent Better](./thePowerOfOnePercentBetter.md)
+- [Mitologia Nordica](./mitologiaNordica.md)
+
