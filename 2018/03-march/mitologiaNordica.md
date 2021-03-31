@@ -10,7 +10,7 @@
 > "O olho de Odin permaneceu no poço de Mímir, preservado pelas águas que alimentam as cinzas do mundo, _vendo nada, observando tudo._"
 
 
-##Palavras
+## Palavras
 
 - Alva: Branca; de coloração branca; que é muito claro, límpido: cor alva; Pureza; que expressa inocência: alma alva;
 - Astuto: Aue se comporta de modo a buscar vantagens sem ser ludibriado; Que não se deixa enganar;
