@@ -1,7 +1,7 @@
-#Mitologia Nórdica
+# Mitologia Nórdica
 
 
-##Citações
+## Citações
 
 *Mimir, o sábio:*
 > "O sábio nada respondeu: é raro cometer erros quando se está calado."
