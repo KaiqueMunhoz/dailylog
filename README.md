@@ -23,7 +23,7 @@ Inspired by Zeh Fernandes - Daily Log
   - Courses
     - Network
       - Alura - [Redes parte 1 - Introdução, Conceitos e Prática](https://cursos.alura.com.br/course/redes-introducao)
-      - Notes - [Introduction and concepts](./lists/courses/introduction_concepts.md)
+      - Notes - [Introduction and concepts](./lists/courses/network/01-introduction_concepts.md)
   - Vídeos
     - [Estado atual do DevOps - Hipsters.Talks #44](https://www.youtube.com/watch?v=9l-mwn0FLPE)
     - [PICPAY: CASHBACK PICPAY DE 18% no boleto parcelado VALE A PENA?](https://www.youtube.com/watch?v=nk5jzrXXYKQ&t=5s)
