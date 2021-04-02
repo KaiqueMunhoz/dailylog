@@ -14,9 +14,20 @@ Inspired by Zeh Fernandes - Daily Log
 - [Videos](./lists/videos/videos.md)
 
 ---
-## 2021 - March
+## 2021 - April
 
 ---
+
+### Day - 01
+
+  - Courses
+    - Network
+      - Alura - [Redes parte 1 - Introdução, Conceitos e Prática](https://cursos.alura.com.br/course/redes-introducao)
+      - Notes - [Introduction and concepts](./lists/courses/introduction_concepts.md)
+
+---
+
+## March
 
 ### Day - 31
   - Courses
