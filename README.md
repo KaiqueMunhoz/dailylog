@@ -24,6 +24,13 @@ Inspired by Zeh Fernandes - Daily Log
     - Network
       - Alura - [Redes parte 1 - Introdução, Conceitos e Prática](https://cursos.alura.com.br/course/redes-introducao)
       - Notes - [Introduction and concepts](./lists/courses/introduction_concepts.md)
+  - Vídeos
+    - [Estado atual do DevOps - Hipsters.Talks #44](https://www.youtube.com/watch?v=9l-mwn0FLPE)
+    - [PICPAY: CASHBACK PICPAY DE 18% no boleto parcelado VALE A PENA?](https://www.youtube.com/watch?v=nk5jzrXXYKQ&t=5s)
+    - [MELHORES LCIs e LCAs DE 2021 | Prazo de 90 dias](https://www.youtube.com/watch?v=aCMYRZx_QpI)
+    - [10 MELHORES CDBs DE LIQUIDEZ DIÁRIA PARA 2021!](https://www.youtube.com/watch?v=1lSnGuGxOwQ)
+    - [VALEU A PENA MINERAR CRIPTOMOEDAS - Quartinho de mineração de criptomoedas](https://www.youtube.com/watch?v=h1TTkDgS-Sk)
+    - [Montando Rig de Mineração pra ganhar 1000 reais por mês! Parte 01](https://www.youtube.com/watch?v=4RGXAjSuG-E&t=2589s)
 
 ---
 
